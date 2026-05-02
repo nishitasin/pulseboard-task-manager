@@ -37,7 +37,7 @@ Frontend:
 👉 https://pulseboard-task-manager.vercel.app/
 
 Backend:
-👉 https://pulseboard-task-manager-production.up.railway.app
+👉 https://pulseboard-task-manager.onrender.com
 
 ---
 
